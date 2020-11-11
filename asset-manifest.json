@@ -1,16 +1,16 @@
 {
   "main.css": "/EthSwap/static/css/main.ce2e00e3.chunk.css",
-  "main.js": "/EthSwap/static/js/main.27050833.chunk.js",
-  "main.js.map": "/EthSwap/static/js/main.27050833.chunk.js.map",
+  "main.js": "/EthSwap/static/js/main.1ab783ef.chunk.js",
+  "main.js.map": "/EthSwap/static/js/main.1ab783ef.chunk.js.map",
   "static/css/1.c1292241.chunk.css": "/EthSwap/static/css/1.c1292241.chunk.css",
-  "static/js/1.fa6ddb72.chunk.js": "/EthSwap/static/js/1.fa6ddb72.chunk.js",
-  "static/js/1.fa6ddb72.chunk.js.map": "/EthSwap/static/js/1.fa6ddb72.chunk.js.map",
+  "static/js/1.54d941e2.chunk.js": "/EthSwap/static/js/1.54d941e2.chunk.js",
+  "static/js/1.54d941e2.chunk.js.map": "/EthSwap/static/js/1.54d941e2.chunk.js.map",
   "runtime~main.js": "/EthSwap/static/js/runtime~main.23f7ea5a.js",
   "runtime~main.js.map": "/EthSwap/static/js/runtime~main.23f7ea5a.js.map",
   "static/css/main.ce2e00e3.chunk.css.map": "/EthSwap/static/css/main.ce2e00e3.chunk.css.map",
   "static/media/token-logo.png": "/EthSwap/static/media/token-logo.8059359a.png",
   "static/css/1.c1292241.chunk.css.map": "/EthSwap/static/css/1.c1292241.chunk.css.map",
   "index.html": "/EthSwap/index.html",
-  "precache-manifest.aac3f21c46bceeaef2db8cc0cbb481f3.js": "/EthSwap/precache-manifest.aac3f21c46bceeaef2db8cc0cbb481f3.js",
+  "precache-manifest.c2020cca7fd9d3090566ee60516ab81f.js": "/EthSwap/precache-manifest.c2020cca7fd9d3090566ee60516ab81f.js",
   "service-worker.js": "/EthSwap/service-worker.js"
 }
