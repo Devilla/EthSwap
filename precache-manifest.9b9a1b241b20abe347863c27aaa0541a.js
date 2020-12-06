@@ -16,15 +16,15 @@ self.__precacheManifest = [
     "url": "/EthSwap/static/js/runtime~main.23f7ea5a.js"
   },
   {
-    "revision": "23d2012ba1cc36056e70",
-    "url": "/EthSwap/static/js/main.23d2012b.chunk.js"
+    "revision": "252a332b3a56419cbc88",
+    "url": "/EthSwap/static/js/main.252a332b.chunk.js"
   },
   {
     "revision": "eef493459f6af3dc47ef",
     "url": "/EthSwap/static/js/1.eef49345.chunk.js"
   },
   {
-    "revision": "23d2012ba1cc36056e70",
+    "revision": "252a332b3a56419cbc88",
     "url": "/EthSwap/static/css/main.ee376ed8.chunk.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/EthSwap/static/css/1.8340a36e.chunk.css"
   },
   {
-    "revision": "75a5abed4af64d802a6f51a021e53f5c",
+    "revision": "fd5953fad7600739625ddabd97d1624a",
     "url": "/EthSwap/index.html"
   }
 ];
